@@ -1,0 +1,6 @@
+/.ipynb_checkpoints
+/images
+/sql
+/wp-content
+*.json
+!images.json

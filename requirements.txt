@@ -1,0 +1,9 @@
+urllib
+tqdm
+pymysql
+paramiko
+pandas
+sshtunnel
+requests
+grequests
+slugify
